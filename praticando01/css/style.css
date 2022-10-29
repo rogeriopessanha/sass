@@ -1,5 +1,16 @@
-h2 {
-  color: #20C997;
+* {
+  font-family: "josefin Sans";
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+* body {
+  background-color: #000;
+  color: #777;
+}
+* body a {
+  color: #777;
+  text-decoration: none;
 }
 
 /*# sourceMappingURL=style.css.map */
