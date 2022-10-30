@@ -17,9 +17,5 @@ body a {
 body ul {
   list-style: none;
 }
-body .header {
-  display: flex;
-  justify-content: space-between;
-}
 
 /*# sourceMappingURL=style.css.map */
