@@ -4,18 +4,22 @@
   margin: 0;
   box-sizing: border-box;
 }
-* body {
+
+body {
   background-color: #000;
   color: #777;
 }
-* body a {
+body a {
   color: #777;
   text-decoration: none;
   transition: 0.4s;
 }
-
-i {
-  color: blue;
+body ul {
+  list-style: none;
+}
+body .header {
+  display: flex;
+  justify-content: space-between;
 }
 
 /*# sourceMappingURL=style.css.map */
