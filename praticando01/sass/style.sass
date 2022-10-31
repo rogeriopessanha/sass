@@ -20,7 +20,28 @@ body
   ul
     list-style: none  
    
-// .header
-//   display: flex
-//   justify-content: space-between
-//   @include mixins.container
+.header
+  display: flex
+  justify-content: space-between
+  @include mixins.container
+
+  &-brand
+    color: variaveis.$cor-principal
+    font-size: 3rem
+
+  &-navbar
+    ul
+      height: 100%
+      @include mixins.flex-center
+
+      li
+        margin: 0 1rem
+        text-transform: uppercase
+        font-size: .8rem
+
+        .active
+          color: variaveis.$cor-secundaria
+
+        a
+          &:hover
+          color: variaveis.$cor-secundaria  
