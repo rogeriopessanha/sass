@@ -36,7 +36,7 @@ body ul {
   align-items: center;
   justify-content: center;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .header-navbar ul {
     display: none;
   }
@@ -58,7 +58,7 @@ body ul {
   justify-content: center;
   height: 100%;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .header-social-media ul {
     display: none;
   }
@@ -81,7 +81,7 @@ body ul {
   justify-content: space-between;
   padding: 0;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .gallery {
     flex-direction: column;
   }
@@ -96,7 +96,7 @@ body ul {
   flex-direction: column;
   color: #fff;
 }
-@media (max-width: 425px) {
+@media (max-width: 450px) {
   .gallery-card {
     width: 90%;
     margin-bottom: 6%;
