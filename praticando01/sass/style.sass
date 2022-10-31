@@ -72,6 +72,9 @@ body
     width: 31%
     height: 400px
     margin-bottom: 4%
+    @include mixins.flex-center
+    flex-direction: column
+    color: variaveis.$cor-principal
 
     &-title
       font-size: 2rem
@@ -108,4 +111,14 @@ body
     @include mixins.bg-img('pessoas.jpg')
   #card-9
     @include mixins.bg-img('comida.jpg')
+
+
+footer
+  text-align: center
+  padding-bottom: 2rem
+
+
+  span
+    font-weight: bold
+    color: variaveis.$cor-secundaria
 
