@@ -30,6 +30,7 @@ body
     font-size: 3rem
 
   &-navbar
+
     ul
       height: 100%
       @include mixins.flex-center
@@ -44,4 +45,20 @@ body
 
         a
           &:hover
-          color: variaveis.$cor-secundaria  
+            color: variaveis.$cor-secundaria
+
+  &-social-media
+
+    ul
+      @include mixins.flex-center
+      height: 100%
+
+      li
+        margin: 0 1rem
+
+        a
+          &:hover
+            color: variaveis.$cor-principal
+
+
+.gallery

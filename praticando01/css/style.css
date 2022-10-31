@@ -43,8 +43,20 @@ body ul {
 .header-navbar ul li .active {
   color: #20C997;
 }
-.header-navbar ul li a {
+.header-navbar ul li a:hover {
   color: #20C997;
+}
+.header-social-media ul {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100%;
+}
+.header-social-media ul li {
+  margin: 0 1rem;
+}
+.header-social-media ul li a:hover {
+  color: #fff;
 }
 
 /*# sourceMappingURL=style.css.map */
