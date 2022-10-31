@@ -103,7 +103,7 @@ body ul {
 .gallery #card-1:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../animal.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../animal.jpg");
 }
 .gallery #card-2 {
   background-image: url("../img/arquitetura.jpg");
@@ -116,7 +116,7 @@ body ul {
 .gallery #card-2:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../arquitetura.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../arquitetura.jpg");
 }
 .gallery #card-3 {
   background-image: url("../img/cidade.jpg");
@@ -129,7 +129,7 @@ body ul {
 .gallery #card-3:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../cidade.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../cidade.jpg");
 }
 .gallery #card-4 {
   background-image: url("../img/decoracao.jpg");
@@ -142,7 +142,7 @@ body ul {
 .gallery #card-4:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../decoracao.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../decoracao.jpg");
 }
 .gallery #card-5 {
   background-image: url("../img/esporte.jpg");
@@ -155,7 +155,7 @@ body ul {
 .gallery #card-5:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../esporte.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../esporte.jpg");
 }
 .gallery #card-6 {
   background-image: url("../img/natureza.jpg");
@@ -168,7 +168,7 @@ body ul {
 .gallery #card-6:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../natureza.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../natureza.jpg");
 }
 .gallery #card-7 {
   background-image: url("../img/paisagem.jpg");
@@ -181,7 +181,7 @@ body ul {
 .gallery #card-7:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../paisagem.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../paisagem.jpg");
 }
 .gallery #card-8 {
   background-image: url("../img/pessoas.jpg");
@@ -194,7 +194,7 @@ body ul {
 .gallery #card-8:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../pessoas.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../pessoas.jpg");
 }
 .gallery #card-9 {
   background-image: url("../img/comida.jpg");
@@ -207,7 +207,7 @@ body ul {
 .gallery #card-9:hover {
   background-size: 110%;
   filter: grayscale(0%);
-  background: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../comida.jpg");
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../comida.jpg");
 }
 
 /*# sourceMappingURL=style.css.map */
